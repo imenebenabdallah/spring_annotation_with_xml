@@ -12,7 +12,7 @@ import com.invivoo.service.CustomerServiceImpl;
 public class AppConfig {
 
 	
-	//this is a test comment 
+	//this is a  new test comment 
 	// @Bean(name = "customerService")
 	// public CustomerService getCustomerService() {
 	//
