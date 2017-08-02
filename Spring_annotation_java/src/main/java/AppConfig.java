@@ -11,6 +11,8 @@ import com.invivoo.service.CustomerServiceImpl;
 @ComponentScan({ "com.invivoo" })
 public class AppConfig {
 
+	
+	//this is a test comment 
 	// @Bean(name = "customerService")
 	// public CustomerService getCustomerService() {
 	//
